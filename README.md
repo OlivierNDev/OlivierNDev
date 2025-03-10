@@ -3,15 +3,15 @@
 I’m Olivier Niyonshima, a Computer Programming and Analysis student at Algonquin College. I specialize in AI development, software engineering, and web development, with a focus on healthcare solutions in Africa.
 
 ## About Me
-- Founder of ZeroX Tech, leading AI-driven healthcare innovations
+- Founder of ZeroX Intelligence, leading AI-driven healthcare, Agriculture,Langauge Processing innovations
 - Software Engineer and Data Analyst at Zuba House, optimizing e-commerce insights
 - Experienced in full-stack development, cloud computing, and database management
-- Passionate about AI applications in healthcare and education
+- Passionate about AI applications in healthcare, agriculture , Language Processing and education
 
 ## Skills
 - **Programming:** Java, Python, JavaScript, SQL, HTML, CSS
 - **Frameworks & Tools:** React, Node.js, PostgreSQL, MySQL, Firebase, MongoDB
-- **Expertise:** AI development, data analysis, web applications, stock management systems
+- **Expertise:** AI development,ML,DeepLearning, data analysis, web applications, stock management systems
 
 ## Projects
 - **Medikal Healthcare Platform:** AI chatbot for patient registration and treatment monitoring
