@@ -39,7 +39,7 @@ I’m **Olivier Niyonshima**, a Computer Programming and Analysis student at **A
 - 🎖️ **Finalist, Carrefour Umurezi Math Competition (2021)**  
 - 🎓 **Certified Member, Canadian Association of IT Professionals (CIPS)**  
 - ☁️ **Google Cloud AI Innovator Certification (2024)**  
-- 🌍 **Selected by the Government of Rwanda for AI healthcare solutions to combat AMR (2024)**  
+  
 
 ---
 
