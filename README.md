@@ -50,5 +50,4 @@ As the **Founder & CEO of ZeroX Intelligence and Medikal Africa**, I focus on de
 ## Connect  
 - [LinkedIn](https://www.linkedin.com/in/olivier-niyonshima-aa2b36236/)  
 - [HuggingFace](https://huggingface.co/OlivierNDev)  
-- [Portfolio](https://olivierndev.github.io/My-personal-Portfolio-website/)  
 - **Email:** niyo0030@algonquinlive.com  
