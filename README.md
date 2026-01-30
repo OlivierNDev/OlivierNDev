@@ -1,53 +1,127 @@
-# Welcome to My GitHub  
+# 👋 Welcome to My GitHub
 
-I’m **Olivier Niyonshima**, a **Computer Programming and Analysis student at Algonquin College** specializing in **artificial intelligence, software engineering, and full-stack web development**.  
+## I’m Olivier Niyonshima  
+**Founder • AI Engineer • Full-Stack Developer • Digital Health Innovator**
 
-As the **Founder & CEO of ZeroX Intelligence and Medikal Africa**, I focus on developing AI solutions that address Africa’s most pressing challenges in **healthcare, agriculture, and education**. My mission is to transform how the world perceives Africa — positioning it as a continent of innovation, resilience, and technological leadership.  
+I’m a **Computer Programming & Analysis student at Algonquin College** and the **Founder & CEO of ZeroX Intelligence and Medikal Africa** — building practical, scalable AI systems for **healthcare, agriculture, and education across Africa**.
 
----
-
-## About Me  
-- Founder & CEO – ZeroX Intelligence & Medikal Africa  
-- Computer Programming & Analysis Student – Algonquin College  
-- Dedicated to building AI for healthcare, agriculture, education, and language localization  
-- Committed to open-source collaboration and advancing Africa’s role in global innovation  
+My work focuses on **responsible AI**, clinical intelligence, and real-world deployment — not just research demos. I’m driven by one goal:  
+**position Africa as a global leader in innovation, resilience, and applied technology.**
 
 ---
 
-## Skills  
-- **Languages:** Java, Python, JavaScript, SQL, HTML, CSS  
-- **Frameworks & Tools:** React, Node.js, PostgreSQL, MySQL, Firebase, MongoDB  
-- **Expertise:** AI development, machine learning, data analysis, full-stack web development, cloud computing  
+## 🌍 What I’m Building & Why
+
+I lead **Medikal Africa**, an AI-powered clinical intelligence platform addressing **Antimicrobial Resistance (AMR)** through:
+- clinical decision support  
+- resistance surveillance  
+- multilingual, low-resource deployment  
+
+My work is recognized by the **Africa Centres for Disease Control and Prevention (Africa CDC)**, where I serve as a **Youth Digital Health Champion** under the **Youth in Digital Health Network**.
+
+Through **ZeroX Intelligence**, I also lead infrastructure-level innovation — including **autonomous UV-C disinfection robots** for infection prevention in African healthcare facilities.
 
 ---
 
-## Projects  
-- **Medikal Africa** — AI-powered healthcare platform tackling Antimicrobial Resistance (AMR) with multilingual access and cross-platform deployment  
-- **EduStream Automation System** — Automating academic reporting and student services  
-- **InternLink 360** — AI-powered platform connecting students with internships and career opportunities  
-- **Real-Time Analytics Dashboards** — Business intelligence dashboards for data-driven insights  
-- **Open-Source AI Tools** — AI contributions for healthcare, education, and agriculture  
+## 🧠 About Me (Quick Snapshot)
+
+- 🎓 Computer Programming & Analysis — Algonquin College  
+- 🚀 Founder & CEO — ZeroX Intelligence (Rwandan–Canadian AI Lab)  
+- 🏥 Founder & CEO — Medikal Africa (Digital Health & AMR)  
+- 🌐 Africa CDC Youth Digital Health Champion  
+- 🤝 Open-source advocate & mentor  
+- 🌍 Focused on AI for low-resource, high-impact environments  
 
 ---
 
-## Achievements  
-- Winner – KOICA Science Fair (2023)  
-- 2nd Place – East Africa Code Beyond Barriers Hackathon (2023)  
-- Winner – Pan African Mathematics Olympiad (PAMO) (2022)  
-- Finalist – Carrefour Umurezi Math Competition (2021)  
-- Certified Member – Canadian Information Processing Society (CIPS)  
-- Google Cloud AI Innovator Certification (2024)  
+## 🛠 Tech Stack & Skills
+
+**Languages**  
+`Python` `Java` `JavaScript` `SQL` `HTML` `CSS`
+
+**Frameworks & Tools**  
+`React` `Node.js` `PostgreSQL` `MySQL` `MongoDB` `Firebase`  
+`Docker` `Git` `REST APIs` `Cloud Platforms`
+
+**Core Expertise**  
+- Artificial Intelligence & Machine Learning  
+- Clinical Decision Support Systems  
+- Data Analytics & Visualization  
+- Full-Stack Web Development  
+- Scalable & Cloud-Ready Architectures  
 
 ---
 
-## GitHub Stats  
-![Olivier's GitHub Stats](https://github-readme-stats.vercel.app/api?username=OlivierNDev&show_icons=true&theme=default)  
-![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=OlivierNDev&layout=compact&theme=default)  
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=OlivierNDev&theme=default)  
+## 🚀 Flagship Projects
+
+### 🏥 Medikal Africa  
+AI-powered clinical intelligence platform combating **antimicrobial resistance (AMR)** across Africa.  
+Integrates clinical data, surveillance signals, and population-level insights to support clinicians and public health systems.
+
+### 🧪 ZeroX Intelligence  
+Cognitive computing and innovation lab founded in 2020, building **applied AI, robotics, and autonomous systems** for healthcare, agriculture, and education.
+
+### 🤖 cBot UV-C Disinfection (with RoboLabs)  
+Autonomous UV-C robots eliminating up to **99.99% of harmful microorganisms**, improving infection prevention and hospital safety.
+
+### 📊 Real-Time Analytics Dashboards  
+Business intelligence systems for real-time decision-making and operational insights.
+
+### 🌐 Open-Source AI Tools  
+Community-driven AI solutions for healthcare, education, and language localization.
 
 ---
 
-## Connect  
-- [LinkedIn](https://www.linkedin.com/in/olivier-niyonshima-aa2b36236/)  
-- [HuggingFace](https://huggingface.co/OlivierNDev)  
-- **Email:** niyo0030@algonquinlive.com  
+## 🧑‍💼 Experience & Leadership
+
+- **Youth Digital Health Champion** — Africa CDC (2025–Present)  
+- **Founder & CEO** — ZeroX Intelligence (2020–Present)  
+- **Founder & CEO** — Medikal Africa (2024–Present)  
+- **Senior Software Engineer & Lead Developer** — Zuba House  
+- **Chief Technology Officer (CTO)** — AMR Initiative Rwanda  
+- **ICT Mentor** — CIPS Immigrant Mentorship Program  
+
+---
+
+## 🏆 Recognition & Awards
+
+- 🏅 **Youth Digital Health Champion** — Africa CDC (2025)  
+- 📺 **Featured on OnPod TV** — Canadian Television (2024)  
+- ☁️ **Google Cloud AI Certification** (2024)  
+- 🏅 **CIPS Certified Member**  
+- 🥇 **KOICA Science Fair – 1st Place** (2023)  
+- 🥈 **Code Beyond Barriers Hackathon – 2nd Place** (2023)  
+- 🥇 **Pan African Mathematics Olympiad (PAMO)** — Winner (2022)  
+
+---
+
+## 📈 GitHub Stats (The Geeky Part)
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=OlivierNDev&show_icons=true&include_all_commits=true&count_private=true&theme=tokyonight)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=OlivierNDev&layout=compact&langs_count=8&theme=tokyonight)
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=OlivierNDev&theme=tokyonight)
+
+---
+
+## 🧪 Activity Graph
+
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=OlivierNDev&theme=tokyo-night)
+
+---
+
+## 🌐 Connect With Me
+
+- 🔗 **Portfolio:** https://olivierniyonshima.com  
+- 💼 **LinkedIn:** https://www.linkedin.com/in/olivier-niyonshima-aa2b36236/  
+- 🤗 **Hugging Face:** https://huggingface.co/OlivierNDev  
+- 📧 **Email:** niyo0030@algonquinlive.com  
+
+---
+
+> *“Building AI that works where it matters most.”*  
+> — **Olivier Niyonshima**
+
+© 2020–2026 Olivier Niyonshima  
+Founder & CEO — ZeroX Intelligence
