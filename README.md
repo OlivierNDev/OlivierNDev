@@ -88,17 +88,7 @@ KOICA Science Fair — First Place (2023)
 Code Beyond Barriers Hackathon — Second Place (2023)  
 Pan African Mathematics Olympiad — Winner (2022)  
 
----
 
-## GitHub Activity
-
-Below is a snapshot of my development activity and consistency on GitHub.
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=OlivierNDev&show_icons=true&count_private=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=OlivierNDev&layout=compact)
-
-![GitHub Streak](https://streak-stats.demolab.com?user=OlivierNDev)
 
 ---
 ##  Activity Graph
