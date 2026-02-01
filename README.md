@@ -1,123 +1,133 @@
-# Welcome to My GitHub
+# 👋 Welcome to My GitHub
 
 ## I’m Olivier Niyonshima  
-Founder, AI Engineer, Full-Stack Developer, Digital Health Innovator
+Founder · AI Engineer · Full-Stack Developer · Health Systems Builder
 
-I’m a Computer Programming and Analysis student at Algonquin College and the Founder & CEO of ZeroX Intelligence and Medikal Africa. I build practical, scalable artificial intelligence systems for healthcare, agriculture, and education across Africa.
+I’m a Computer Programming and Analysis student at Algonquin College and the founder of **ZeroX Intelligence** and **Medikal Africa**. I work on building practical, production-ready AI systems for healthcare and public systems, with a strong focus on real-world deployment across Africa.
 
-My work focuses on responsible AI, clinical intelligence, and real-world deployment — not just research prototypes. I am driven by a long-term mission: to position Africa as a global leader in innovation, resilience, and applied technology.
+I’m less interested in research demos and more interested in systems that actually run in hospitals, labs, and public health environments.
 
 ---
 
-## What I’m Building and Why
+## What I’m Building
 
-I lead Medikal Africa, an AI-powered clinical intelligence platform addressing Antimicrobial Resistance (AMR) through clinical decision support, resistance surveillance, and multilingual deployment in low-resource settings.
+### Medikal Africa  
+Medikal Africa is an AI-driven clinical intelligence platform designed to address **antimicrobial resistance (AMR)** as a systems problem.
 
-My work is recognized by the Africa Centres for Disease Control and Prevention (Africa CDC), where I serve as a Youth Digital Health Champion under the Youth in Digital Health Network.
+The platform focuses on:
+- AI-assisted clinical decision support  
+- Resistance surveillance and early detection  
+- Real-time hospital and public health analytics  
+- Edge-first, low-bandwidth deployment for constrained settings  
 
-Through ZeroX Intelligence, I also lead infrastructure-focused innovation, including the deployment of autonomous UV-C disinfection robots to strengthen infection prevention in African healthcare facilities.
+Medikal was selected into the **NVIDIA Inception Program**, joining a global group of technically ambitious AI startups after product and technical review. Access to NVIDIA’s ecosystem supports how we train models, deploy low-latency inference at the point of care, and scale healthcare AI responsibly.
+
+---
+
+## Recognition & Leadership
+
+My work has been recognized by the **Africa Centres for Disease Control and Prevention (Africa CDC)**, where I serve as a **Youth Digital Health Champion** under the Youth in Digital Health Network.
+
+Through **ZeroX Intelligence**, I also lead infrastructure-focused innovation projects, including applied AI systems and autonomous technologies for infection prevention, diagnostics, and public health visibility.
 
 ---
 
 ## About Me
 
 - Computer Programming and Analysis student at Algonquin College  
-- Founder & CEO of ZeroX Intelligence, a Rwandan–Canadian AI lab  
-- Founder & CEO of Medikal Africa, a digital health and AMR platform  
-- Youth Digital Health Champion at Africa CDC  
+- Founder, ZeroX Intelligence (Rwandan–Canadian AI lab)  
+- Founder, Medikal Africa (health AI and AMR infrastructure)  
+- NVIDIA Inception Program participant  
+- Youth Digital Health Champion, Africa CDC  
 - Open-source contributor and technology mentor  
-- Focused on AI solutions for low-resource, high-impact environments  
+- Focused on AI systems for low-resource, high-impact environments  
 
 ---
 
-## Tech Stack and Skills
+## Tech Stack & Skills
 
-Languages  
-Python, Java, JavaScript, SQL, HTML, CSS
+### Languages  
+Python · Java · JavaScript · SQL · HTML · CSS  
 
-Frameworks and Tools  
-React, Node.js, PostgreSQL, MySQL, MongoDB, Firebase  
-Docker, Git, REST APIs, Cloud Platforms
+### Frameworks & Tools  
+React · Node.js · PostgreSQL · MySQL · MongoDB · Firebase  
+Docker · Git · REST APIs · Cloud platforms  
 
-Core Expertise  
-- Artificial intelligence and machine learning  
+### Core Expertise  
+- Applied AI and machine learning  
 - Clinical decision support systems  
-- Data analytics and visualization  
-- Full-stack web development  
-- Scalable and cloud-ready architectures  
+- Edge AI and low-latency inference  
+- Health data analytics and surveillance  
+- Full-stack engineering for scalable systems  
 
 ---
 
 ## Flagship Projects
 
-Medikal Africa  
-An AI-powered clinical intelligence platform combating antimicrobial resistance across Africa. The system integrates clinical data, surveillance signals, and population-level insights to support clinicians and public health systems.
+**Medikal Africa**  
+AI-driven clinical and public health intelligence platform focused on antimicrobial resistance and healthcare systems strengthening.
 
-ZeroX Intelligence  
-Founded in 2020, ZeroX Intelligence is a cognitive computing and innovation lab building applied AI, robotics, and autonomous systems for healthcare, agriculture, and education across Africa.
+**ZeroX Intelligence**  
+Founded in 2020, ZeroX Intelligence builds applied AI, robotics, and autonomous systems for healthcare, agriculture, and education across Africa.
 
-cBot UV-C Disinfection (with RoboLabs)  
-An autonomous UV-C disinfection robot capable of eliminating up to 99.99 percent of harmful microorganisms, improving infection prevention, hospital safety, and operational efficiency.
+**cBot UV-C Disinfection (with RoboLabs)**  
+Autonomous UV-C disinfection robotics improving infection prevention, hospital safety, and operational efficiency.
 
-Real-Time Analytics Dashboards  
-Business intelligence systems designed to deliver real-time insights for data-driven decision-making.
+**Real-Time Analytics Systems**  
+Infrastructure-level analytics pipelines supporting operational and clinical decision-making.
 
-Open-Source AI Tools  
-Community-driven AI tools supporting healthcare delivery, education, and language localization.
-
----
-
-## Experience and Leadership
-
-Youth Digital Health Champion — Africa CDC (2025–Present)  
-Founder & CEO — ZeroX Intelligence (2020–Present)  
-Founder & CEO — Medikal Africa (2024–Present)  
-Senior Software Engineer & Lead Developer — Zuba House  
-Chief Technology Officer — AMR Initiative Rwanda  
-ICT Mentor — CIPS Immigrant Mentorship Program  
+**Open-Source AI Tools**  
+Community-driven tools for healthcare delivery, education, and language localization.
 
 ---
 
-## Recognition and Awards
+## Experience & Roles
 
-Youth Digital Health Champion — Africa CDC (2025)  
-Featured on OnPod TV — Canadian Television (2024)  
-Google Cloud AI Certification (2024)  
-Certified Member — Canadian Information Processing Society  
-KOICA Science Fair — First Place (2023)  
-Code Beyond Barriers Hackathon — Second Place (2023)  
-Pan African Mathematics Olympiad — Winner (2022)  
-
-
+- NVIDIA Inception Program Participant  
+- Youth Digital Health Champion — Africa CDC (2025–Present)  
+- Founder — ZeroX Intelligence (2020–Present)  
+- Founder — Medikal Africa (2024–Present)  
+- Chief Technology Officer — AMR Initiative Rwanda  
+- Senior Software Engineer & Lead Developer — Zuba House  
+- ICT Mentor — CIPS Immigrant Mentorship Program  
 
 ---
-##  Activity Graph
+
+## Recognition & Awards
+
+- Youth Digital Health Champion — Africa CDC (2025)  
+- Featured on OnPod TV (Canada) — 2024  
+- Google Cloud AI Certification — 2024  
+- Certified Member — Canadian Information Processing Society  
+- KOICA Science Fair — First Place (2023)  
+- Code Beyond Barriers Hackathon — Second Place (2023)  
+- Pan-African Mathematics Olympiad — Winner (2022)  
+
+---
+
+## Activity
 
 ![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=OlivierNDev&theme=tokyo-night)
 
-## Connect With Me
+---
 
-Portfolio  
+## Connect
+
+🌐 Portfolio  
 https://olivierniyonshima.com  
 
-LinkedIn  
+💼 LinkedIn  
 https://www.linkedin.com/in/olivier-niyonshima-aa2b36236/  
 
-Hugging Face  
+🤗 Hugging Face  
 https://huggingface.co/OlivierNDev  
 
-Email  
+📧 Email  
 niyo0030@algonquinlive.com  
 
 ---
 
-“Building AI that works where it matters most.”
+> *Building AI systems that work where constraints are real and impact matters.*
 
 © 2020–2026 Olivier Niyonshima  
-Founder & CEO, ZeroX Intelligence
-
-
-
-
-
-
+Founder, ZeroX Intelligence
